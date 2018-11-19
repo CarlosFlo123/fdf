@@ -9,9 +9,9 @@ void ft_putchar(char c)
 int deal_key(int key, void *param)
 {
 	ft_putchar('X');
+	//mlx_string_put(mlx_ptr, win_ptr, 260, 260, 0xFFFFFF, "yeah");
 	return (0);
 }
-
 
 int main()
 {
