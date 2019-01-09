@@ -11,6 +11,6 @@ phenomenon and their evolution, and as a result be better prepared.
 This project has a Makefile, therefore you must "make" the project for generate the executable file.
 
 1. Once in the project directory "make" the executable file.
-2. ./fdf test_maps/...
+2. ./fdf test_maps/42.fdf
 3. As you can see test_maps/ have more funny maps to render.
 
