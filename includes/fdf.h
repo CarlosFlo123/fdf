@@ -30,15 +30,15 @@
 # define KEY_LEFT 123
 # define KEY_RIGHT 124
 
-# define KEY_ZOOM_IN 69
-# define KEY_ZOOM_OUT 78
+# define KEY_ZOOM_IN 24
+# define KEY_ZOOM_OUT 27
 
-# define KEY_ROT_X_U 86
-# define KEY_ROT_X_D 83
-# define KEY_ROT_Y_U 87
-# define KEY_ROT_Y_D 84
-# define KEY_ROT_Z_U 88
-# define KEY_ROT_Z_D 85
+# define KEY_ROT_X_U 12
+# define KEY_ROT_X_D 0
+# define KEY_ROT_Y_U 13
+# define KEY_ROT_Y_D 1
+# define KEY_ROT_Z_U 14
+# define KEY_ROT_Z_D 2
 
 t_plot		*valid_file(char *filename);
 void		draw_everything(t_data *d);

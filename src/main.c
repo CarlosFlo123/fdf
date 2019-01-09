@@ -28,9 +28,9 @@ Translation:\n\
 	Y: Key: UP, DOWN\n\
 	X: Key: LEFT, RIGHT\n\
 Rotation:\n\
-	X: Keypad: 1, 4\n\
-	Y: Keypad: 2, 5\n\
-	Z: Keypad: 3, 6\n\
+	X: Keypad: Q, A\n\
+	Y: Keypad: W, S\n\
+	Z: Keypad: E, D\n\
 Zoom:\n\
 	IN: Keypad: +\n\
 	OUT: Keypad: -");
