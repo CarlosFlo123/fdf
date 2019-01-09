@@ -13,7 +13,7 @@ This project has a Makefile, therefore you must "make" the project for generate 
 1. Once in the project directory "make" the executable file.
 2. ./fdf test_maps/42.fdf
 
-https://github.com/CarlosFlo123/fdf/blob/master/42_render.png
+![alt text](https://github.com/CarlosFlo123/fdf/blob/master/42_render.png)
 
 
 3. As you can see test_maps/ have more funny maps to render, you can even create yours by creating your matrix, here is a file example:
